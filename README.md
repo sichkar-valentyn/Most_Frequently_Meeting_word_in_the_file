@@ -8,7 +8,7 @@ Finding the most frequently meeting word in the file using Set in Python
 Using functions to work with the files, string and sets in Python, program finds the most frequently meeting word and shows the number.
 
 ## GUI in Python
-![Result](images/GUI_in_Python.png)
+![Result](images/Most_Frequently_Meeting_word_in_the_file.png)
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
