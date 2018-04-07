@@ -1,3 +1,15 @@
+# File: Most_Frequently_Meeting_word_in_the_file.py
+# Description: Most_Frequently_Meeting_word_in_the_file
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Most Frequently Meeting word in the file // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Most_Frequently_Meeting_word_in_the_file (date of access: XX.XX.XXXX)
+
+
 # Implementing the task - find the most frequently meeting word from the file
 # Reading the lines from the file and putting them to the string in one line
 string = ''
