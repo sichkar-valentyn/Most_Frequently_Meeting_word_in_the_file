@@ -1,5 +1,5 @@
 # File: Most_Frequently_Meeting_word_in_the_file.py
-# Description: Most_Frequently_Meeting_word_in_the_file
+# Description: Most Frequently Meeting word in the file
 # Environment: PyCharm and Anaconda environment
 #
 # MIT License
