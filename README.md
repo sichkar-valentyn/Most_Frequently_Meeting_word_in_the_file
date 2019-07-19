@@ -1,9 +1,6 @@
 # Most Frequently Meeting word in the file
 Finding the most frequently meeting word in the file using Set in Python
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Most Frequently Meeting word in the file // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Most_Frequently_Meeting_word_in_the_file (date of access: XX.XX.XXXX)
 
